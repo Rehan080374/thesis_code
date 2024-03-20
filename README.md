@@ -1,6 +1,6 @@
 # thesis_code
 contains all the code required for thesis, additiol supporting liberaries required are libfranka and franka_ros for franka emika panda robot
-Abstract
+# Abstract
 As collaborative robots (cobots for short) become more prominent in industrial settings,
 intuitive ways of interaction between humans and cobots are essential for their success. In this
 Thesis, a novel framework that enables a human to easily guide a cobot to co-manipulate an
